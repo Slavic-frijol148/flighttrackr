@@ -32,6 +32,7 @@ The original build used:
 - Small 5V amplifier board
 - USB Wi-Fi dongle
 - Assorted Dupont jumper wires
+- A matching 3D-printed case
 
 Parts linked from the original build:
 
@@ -40,6 +41,7 @@ Parts linked from the original build:
 - Amplifier: `https://www.amazon.com/dp/B0912CWB7Z`
 - Wi-Fi dongle: `https://www.amazon.com/dp/B0BNFKJPXS`
 - Jumper wires: `https://www.amazon.com/dp/B0B2L66ZFM`
+- 3D-printable case: `https://www.printables.com/model/1665489-flighttrackr-raspberry-pi-with-oled-screen-case-pi`
 
 The OLED listing resolves to a HiLetgo-style 2.42" SSD1309 128x64 module with a 4-pin I2C header. The jumper wire kit resolves to a standard 120-wire Dupont assortment. The other linked parts were used in the original build, but the exact Amazon product text was not easily recoverable when this README was updated, so the wiring guidance below stays generic where needed.
 
